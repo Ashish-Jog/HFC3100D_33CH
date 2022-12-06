@@ -1,0 +1,2 @@
+# HFC3100D_33CH
+MC,MD,RD(dspic33ch128mp506)
