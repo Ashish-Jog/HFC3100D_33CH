@@ -1,0 +1,5 @@
+.ca/
+.generated_files/
+build/
+debug/
+nbproject/

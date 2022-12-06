@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/RectDisplay.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>800</used>
+      <free>15584</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>134016</length>
+      <used>84648</used>
+      <free>49368</free>
+    </memory>
+  </executable>
+</project>
