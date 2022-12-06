@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.a96": "i8080-macroasm",
+        "define_psfb.h": "c"
+    }
+}

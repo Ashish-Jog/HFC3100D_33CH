@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/HFC-3100D_MC_V1.1_221125.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>896</used>
+      <free>15488</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>134016</length>
+      <used>32298</used>
+      <free>101718</free>
+    </memory>
+  </executable>
+</project>

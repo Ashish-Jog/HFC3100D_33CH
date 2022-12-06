@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)      -g -D__DEBUG   -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off    -mdfp="${DFP_DIR}/xc16"E:\fromSES\emailSend\HFC3100D_MC_MD_RC_RD_FirmWare_DSPIC33CH128MP506(22.11.30)\HFC-3100D_MC_V1.1_221125.X\funcData.c

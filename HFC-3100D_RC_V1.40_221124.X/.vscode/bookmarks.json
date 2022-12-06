@@ -1,0 +1,69 @@
+{
+	"files": [
+		{
+			"path": "Main_PSFB.c",
+			"bookmarks": [
+				{
+					"line": 93,
+					"column": 31,
+					"label": ""
+				},
+				{
+					"line": 117,
+					"column": 20,
+					"label": "call ModuleOnOff"
+				}
+			]
+		},
+		{
+			"path": "Compensator_PSFB.c",
+			"bookmarks": [
+				{
+					"line": 349,
+					"column": 12,
+					"label": "ModuelOnOff"
+				},
+				{
+					"line": 463,
+					"column": 20,
+					"label": ""
+				},
+				{
+					"line": 484,
+					"column": 17,
+					"label": ""
+				},
+				{
+					"line": 489,
+					"column": 18,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "RS485.c",
+			"bookmarks": [
+				{
+					"line": 60,
+					"column": 26,
+					"label": ""
+				},
+				{
+					"line": 87,
+					"column": 35,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "RS232.c",
+			"bookmarks": [
+				{
+					"line": 235,
+					"column": 35,
+					"label": "Chg_info.b5"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="5">
+        <file>
+            <url>mcc_generated_files/charlcd1.c</url>
+            <bookmark id="1">
+                <name>mainProcess</name>
+                <line>701</line>
+                <key/>
+            </bookmark>
+            <bookmark id="5">
+                <name>pwd check</name>
+                <line>992</line>
+                <key/>
+            </bookmark>
+            <bookmark id="4">
+                <name/>
+                <line>1144</line>
+                <key/>
+            </bookmark>
+            <bookmark id="3">
+                <name>battAlarm</name>
+                <line>1434</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>main.c</url>
+            <bookmark id="2">
+                <name>Loop</name>
+                <line>114</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group/>
+    </open-files>
+</project-private>
